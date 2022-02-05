@@ -6,6 +6,10 @@ day2 순서
 4. DoubleVarTest.java
 5. ShapeTest.java : 오늘의 테스트 문제
 
+Wrapper Class 는 기본형 int,double 등의 데이터형식을 클래스로 다룰때 사용합니다.
+		래퍼클래스 메소드 중 가장 많이 쓰이는 것은 parseXXX [parseInt(String),parseDouble(String) 등] 입니다.
+		문자열을 해당되는 기본데이터 형식으로 변환합니다.
+
 **실행결과 화면**
 	-------------------------------------------------------------
 			[[사각형 도형의 넓이 구하기]]
